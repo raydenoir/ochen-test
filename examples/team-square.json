@@ -1,0 +1,59 @@
+{
+  "scaleVersion": 2,
+  "width": 1000,
+  "height": 1000,
+  "layout": "diagonal",
+  "detail": "L",
+  "title": "Большие идеи — вместе",
+  "prompt": "Большие идеи рождаются в команде",
+  "palette": {
+    "key": "peach",
+    "name": "Тёплый персик",
+    "background": [
+      "#FDD7B9",
+      "#FAC896",
+      "#D27532",
+      "#181817"
+    ],
+    "objects": [
+      "#F9ECB0",
+      "#80DADA",
+      "#BEEBEB",
+      "#FFFFFF"
+    ]
+  },
+  "background": true,
+  "backgroundTexture": true,
+  "backgroundPattern": "corners",
+  "layers": [
+    {
+      "key": "lamp",
+      "role": "background",
+      "x": 0.3,
+      "y": 0.37,
+      "detail": "S",
+      "size": 2.3,
+      "rotation": 0,
+      "id": "team-square-1"
+    },
+    {
+      "key": "puzzle",
+      "role": "main",
+      "x": 0.64,
+      "y": 0.65,
+      "size": 2.3,
+      "rotation": 0,
+      "id": "team-square-2"
+    },
+    {
+      "key": "phone",
+      "role": "main",
+      "x": 0.29,
+      "y": 0.81,
+      "detail": "S",
+      "size": 2.3,
+      "rotation": 0,
+      "id": "team-square-3"
+    }
+  ]
+}

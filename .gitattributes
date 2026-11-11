@@ -1,0 +1,4 @@
+# Normalize source code while preserving SVGs and exported data byte for byte.
+* text=auto
+*.svg -text
+*.json -text

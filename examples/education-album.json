@@ -1,0 +1,57 @@
+{
+  "scaleVersion": 2,
+  "width": 1200,
+  "height": 800,
+  "layout": "cropped",
+  "detail": "L",
+  "title": "Знания открывают двери",
+  "prompt": "Знания открывают двери",
+  "palette": {
+    "key": "violet",
+    "name": "Сиреневый день",
+    "background": [
+      "#D7CDF5",
+      "#AA9BF0",
+      "#7864D7",
+      "#181817"
+    ],
+    "objects": [
+      "#F9ECB0",
+      "#F9A3AA",
+      "#FFE3E1",
+      "#FFFFFF"
+    ]
+  },
+  "background": true,
+  "backgroundTexture": true,
+  "backgroundPattern": "circles",
+  "layers": [
+    {
+      "key": "lamp",
+      "role": "background",
+      "x": 0.79,
+      "y": -0.015,
+      "size": 1.74,
+      "rotation": 0,
+      "id": "education-album-1"
+    },
+    {
+      "key": "book",
+      "role": "main",
+      "x": 0.42,
+      "y": 0.59,
+      "size": 1.74,
+      "rotation": 0,
+      "id": "education-album-2"
+    },
+    {
+      "key": "pen",
+      "role": "main",
+      "x": 0.82,
+      "y": 0.79,
+      "size": 1.74,
+      "rotation": 0,
+      "id": "education-album-3"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "scaleVersion": 2,
+  "width": 1000,
+  "height": 1000,
+  "layout": "cropped",
+  "detail": "L",
+  "title": "Деньги на чёрный день",
+  "prompt": "Деньги на чёрный день",
+  "palette": {
+    "key": "violet",
+    "name": "Сиреневый день",
+    "background": [
+      "#D7CDF5",
+      "#AA9BF0",
+      "#7864D7",
+      "#181817"
+    ],
+    "objects": [
+      "#F9ECB0",
+      "#F9A3AA",
+      "#FFE3E1",
+      "#FFFFFF"
+    ]
+  },
+  "background": true,
+  "backgroundTexture": true,
+  "backgroundPattern": "corners",
+  "layers": [
+    {
+      "id": "savings-square-1",
+      "key": "lamp",
+      "role": "background",
+      "x": 0.385,
+      "y": -0.041,
+      "size": 2.2998264085434714,
+      "rotation": 0,
+      "color": "alternate"
+    },
+    {
+      "id": "savings-square-2",
+      "key": "wallet",
+      "role": "main",
+      "x": 0.45,
+      "y": 0.742,
+      "size": 2.2998264085434714,
+      "rotation": 0,
+      "color": "alternate"
+    },
+    {
+      "id": "savings-square-3",
+      "key": "coin",
+      "role": "main",
+      "x": 0.75,
+      "y": 0.532,
+      "size": 2.2998264085434714,
+      "rotation": 0
+    }
+  ]
+}
